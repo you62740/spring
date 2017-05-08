@@ -1,0 +1,3045 @@
+!SESSION 2017-05-07 14:30:24.202 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-07 14:31:39.045
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\youne'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-05-07 20:06:44.209 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-07 20:08:39.320
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\youne'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:30:19.081
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:30:19.111
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:30:19.539
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:30:19.555
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:30:24.471
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:30:24.482
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:34:23.226
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:34:23.234
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:34:28.307
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:34:28.320
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:34:28.633
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:34:28.641
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:36:47.481
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:36:47.487
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:36:51.433
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:36:51.448
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:36:51.508
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:36:51.514
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:36:51.571
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:36:51.579
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:38:27.049
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:38:27.055
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:44:06.187
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:44:06.199
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:44:09.140
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:44:09.145
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:46:32.942
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:46:32.952
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:58:05.142
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 20:58:05.149
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:07:35.115
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:07:35.123
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:08:06.022
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:08:06.027
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:09:55.123
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:09:55.129
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:09:55.160
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:09:55.259
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:09:55.267
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:09:55.361
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:09:55.368
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:09:55.385
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:18.165
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:18.178
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:19.260
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:19.265
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:19.311
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:19.317
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:28.175
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:28.182
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:28.195
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:28.265
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:28.272
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:28.871
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:28.876
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:28.888
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:50.948
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:11:50.956
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:12:54.942
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:12:54.948
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:12:54.965
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:12:55.062
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:12:55.068
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:12:55.145
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:12:55.152
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:12:55.164
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:39.372
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:39.382
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:39.431
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:39.437
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:39.503
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:39.510
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:42.355
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:42.360
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:51.926
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:18:51.932
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:19:27.139
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:19:27.145
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:19:27.158
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:19:27.219
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:19:27.224
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:19:27.372
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:19:27.379
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:19:27.394
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:20:06.056
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:20:06.061
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-05-07 21:24:33.542 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-07 21:25:01.429
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\youne'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:36.241
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:37.294
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:40.444
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:40.454
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:40.743
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:40.750
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:41.481
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:41.489
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:41.602
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:41.610
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:48.449
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:48.462
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:48.524
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:48.668
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:48.676
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:48.804
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:48.812
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:25:48.830
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:26:07.505
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:26:07.511
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:31:49.828
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:31:49.835
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:32:41.701
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:32:41.709
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:32:41.724
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:32:41.819
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:32:41.824
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:32:41.900
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:32:41.907
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:32:41.920
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:33:08.416
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:33:08.421
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:45.105
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:45.113
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:45.130
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:45.244
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:45.255
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:45.891
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:45.897
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:45.915
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:47.057
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:47.064
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:55.709
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:55.716
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:55.729
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:56.546
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:56.552
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:57.225
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:57.233
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:34:57.248
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:35:08.655
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:35:08.661
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:36:48.892
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:36:48.904
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:36:50.058
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:36:50.064
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:36:50.113
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:36:50.118
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:38:37.691
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:38:37.703
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:38:38.847
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:38:38.854
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:38:38.909
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:38:38.943
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:07.880
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:07.888
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:07.904
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:09.335
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:09.341
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:10.159
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:10.166
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:10.183
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:34.484
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:34.494
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:34.509
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:34.617
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:34.622
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:35.304
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:35.310
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:35.325
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:37.038
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:37.045
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:42.173
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:42.184
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:42.198
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:43.622
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:43.627
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:43.891
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:43.899
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:43.916
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:56.279
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:39:56.285
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:21.811
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:21.821
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:22.904
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:22.908
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:23.009
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:23.014
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:33.707
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:33.715
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:33.801
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:33.880
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:33.886
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:34.472
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:34.478
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:34.492
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:35.929
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:35.934
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:42.223
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:42.231
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:42.242
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:43.450
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:43.458
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:43.545
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:43.552
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:43.563
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:57.430
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:57.434
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:57.449
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:57.453
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:57.476
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:40:57.480
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:22.225
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:22.231
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:56.885
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:56.892
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:56.906
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:57.005
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:57.011
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:57.636
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:57.643
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:57.657
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:57.727
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:42:57.731
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:08.541
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:08.549
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:22.843
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:22.847
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:53.937
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:53.945
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:53.958
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:55.273
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:55.278
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:55.356
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:55.362
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:43:55.374
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:44:11.058
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:44:11.063
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:44:11.078
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:44:11.083
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:44:11.108
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-07 21:44:11.112
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-05-08 09:38:01.731 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/C:/Users/youne/workspace/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-08 09:38:35.489
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\youne'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 09:38:53.812
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 09:38:53.839
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 09:38:54.512
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 09:38:54.521
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 09:38:55.625
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 09:38:55.633
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 09:38:55.780
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 09:38:55.788
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-08 10:09:54.141
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-08 10:09:54.143
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:09.876
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:09.904
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:09.986
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:10.114
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:10.121
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:10.258
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:10.265
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:10.287
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:29.661
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:29.668
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:29.689
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:29.695
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:29.729
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 10:34:29.735
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:00:31.099
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:00:31.106
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:00:35.059
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:00:35.065
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:04:25.699
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:04:25.706
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:05:31.785
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:05:31.790
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:11:08.839
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:11:08.846
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:15:12.971
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:15:12.976
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-08 11:18:05.764
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-08 11:18:05.766
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:28:29.196
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:28:29.200
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:30:51.386
+!MESSAGE The POM for org.springframework:spring-aspects:jar:4.1.0.RELEASE is invalid, transitive dependencies (if any) will not be available: 1 problem was encountered while building the effective model
+[FATAL] Non-readable POM C:\Users\youne\.m2\repository\org\springframework\spring-aspects\4.1.0.RELEASE\spring-aspects-4.1.0.RELEASE.pom: input contained no data @ 
+
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-05-08 11:31:33.670
+!MESSAGE Could not download sources for aopalliance:aopalliance:1.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact aopalliance:aopalliance:jar:javadoc:1.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:249)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:237)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:202)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:153)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:136)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:134)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Contains: Missing aopalliance:aopalliance:jar:javadoc:1.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:33.673
+!MESSAGE Could not resolve artifact aopalliance:aopalliance:jar:javadoc:1.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:33.673
+!MESSAGE Missing aopalliance:aopalliance:jar:javadoc:1.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-05-08 11:31:38.071
+!MESSAGE Could not download sources for javax.servlet.jsp:jsp-api:2.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.servlet.jsp:jsp-api:jar:javadoc:2.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:249)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:237)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:202)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:153)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:136)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:134)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Contains: Missing javax.servlet.jsp:jsp-api:jar:javadoc:2.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:38.072
+!MESSAGE Could not resolve artifact javax.servlet.jsp:jsp-api:jar:javadoc:2.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:38.072
+!MESSAGE Missing javax.servlet.jsp:jsp-api:jar:javadoc:2.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-05-08 11:31:38.669
+!MESSAGE Could not download sources for javax.servlet:jstl:1.2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.servlet:jstl:jar:javadoc:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:249)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:237)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:202)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:153)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:136)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:134)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Contains: Missing javax.servlet:jstl:jar:javadoc:1.2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:38.669
+!MESSAGE Could not resolve artifact javax.servlet:jstl:jar:javadoc:1.2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:38.669
+!MESSAGE Missing javax.servlet:jstl:jar:javadoc:1.2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-05-08 11:31:41.612
+!MESSAGE Could not download sources for dom4j:dom4j:1.6.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact dom4j:dom4j:jar:javadoc:1.6.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:249)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:237)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:202)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:153)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:136)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:134)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Contains: Missing dom4j:dom4j:jar:javadoc:1.6.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:41.613
+!MESSAGE Could not resolve artifact dom4j:dom4j:jar:javadoc:1.6.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:41.613
+!MESSAGE Missing dom4j:dom4j:jar:javadoc:1.6.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-05-08 11:31:42.252
+!MESSAGE Could not download sources for xml-apis:xml-apis:1.0.b2
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xml-apis:xml-apis:jar:javadoc:1.0.b2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:249)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:237)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:202)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:153)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:136)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:134)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Contains: Missing xml-apis:xml-apis:jar:javadoc:1.0.b2
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:42.253
+!MESSAGE Could not resolve artifact xml-apis:xml-apis:jar:javadoc:1.0.b2
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:42.253
+!MESSAGE Missing xml-apis:xml-apis:jar:javadoc:1.0.b2
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-05-08 11:31:45.815
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependencyManagement> must match start tag name <project> from line 1 (position: TEXT seen ...</dependencies>\r\n \t\t\r\n \t\t \t</dependencyManagement>... @179:29) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencyManagement> must match start tag name <project> from line 1 (position: TEXT seen ...</dependencies>\r\n \t\t\r\n \t\t \t</dependencyManagement>... @179:29) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1727)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2068)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:45.816
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: end tag name </dependencyManagement> must match start tag name <project> from line 1 (position: TEXT seen ...</dependencies>\r\n \t\t\r\n \t\t \t</dependencyManagement>... @179:29) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencyManagement> must match start tag name <project> from line 1 (position: TEXT seen ...</dependencies>\r\n \t\t\r\n \t\t \t</dependencyManagement>... @179:29) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1727)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2068)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-05-08 11:31:47.444
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependencyManagement> must match start tag name <project> from line 1 (position: TEXT seen ...</dependencies>\r\n \t\t\r\n \t\t \t</dependencyManagement>... @179:29) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	... 24 more
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencyManagement> must match start tag name <project> from line 1 (position: TEXT seen ...</dependencies>\r\n \t\t\r\n \t\t \t</dependencyManagement>... @179:29) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1727)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2068)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	... 26 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2017-05-08 11:31:47.445
+!MESSAGE Could not read pom.xml
+!STACK 0
+org.apache.maven.model.io.ModelParseException: end tag name </dependencyManagement> must match start tag name <project> from line 1 (position: TEXT seen ...</dependencies>\r\n \t\t\r\n \t\t \t</dependencyManagement>... @179:29) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:122)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:86)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:542)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:498)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:351)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:298)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencyManagement> must match start tag name <project> from line 1 (position: TEXT seen ...</dependencies>\r\n \t\t\r\n \t\t \t</dependencyManagement>... @179:29) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:1727)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1169)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1131)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1118)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2068)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3845)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	... 26 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:31:48.332
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/zipcloud-parent
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:54:44.595
+!MESSAGE Before configuration Current Thread[Worker-103,5,main]
+zipcloud-core is not a IVirtualComponent
+zipcloud-core hasModuleCoreNature:false, isFlexible:false
+zipcloud-core is not a faceted project
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:54:45.045
+!MESSAGE after configuration Current Thread[Worker-103,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+  -/zipcloud-core/src/test/java/
+  -/zipcloud-core/src/test/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/" source-path="/src/test/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:54:45.071
+!MESSAGE after removing test folders Current Thread[Worker-103,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:58:55.872
+!MESSAGE Before configuration Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:58:55.876
+!MESSAGE after configuration Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:58:55.880
+!MESSAGE after removing test folders Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:58:57.483
+!MESSAGE Before configuration Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:58:57.486
+!MESSAGE after configuration Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:58:57.490
+!MESSAGE after removing test folders Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:59:42.236
+!MESSAGE Before configuration Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:59:42.239
+!MESSAGE after configuration Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:59:42.242
+!MESSAGE after removing test folders Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:59:43.220
+!MESSAGE Before configuration Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:59:43.223
+!MESSAGE after configuration Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 11:59:43.226
+!MESSAGE after removing test folders Current Thread[Worker-97,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-08 12:02:51.797
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-08 12:02:51.798
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-08 12:06:12.271
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-05-08 12:06:12.272
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:49.128
+!MESSAGE Before configuration Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:49.130
+!MESSAGE after configuration Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:49.132
+!MESSAGE after removing test folders Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:50.189
+!MESSAGE Before configuration Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:50.192
+!MESSAGE after configuration Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:50.195
+!MESSAGE after removing test folders Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:51.621
+!MESSAGE Before configuration Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:51.623
+!MESSAGE after configuration Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:51.626
+!MESSAGE after removing test folders Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:52.501
+!MESSAGE Before configuration Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:52.503
+!MESSAGE after configuration Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:14:52.506
+!MESSAGE after removing test folders Current Thread[Worker-114,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:47.855
+!MESSAGE Before configuration Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:47.859
+!MESSAGE after configuration Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:47.863
+!MESSAGE after removing test folders Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:48.833
+!MESSAGE Before configuration Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:48.837
+!MESSAGE after configuration Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:48.842
+!MESSAGE after removing test folders Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:49.761
+!MESSAGE Before configuration Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:49.764
+!MESSAGE after configuration Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:49.767
+!MESSAGE after removing test folders Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:50.526
+!MESSAGE Before configuration Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:50.529
+!MESSAGE after configuration Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:15:50.531
+!MESSAGE after removing test folders Current Thread[Worker-123,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:21:03.348
+!MESSAGE Before configuration Current Thread[Worker-125,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:21:03.351
+!MESSAGE after configuration Current Thread[Worker-125,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:21:03.355
+!MESSAGE after removing test folders Current Thread[Worker-125,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:25.986
+!MESSAGE Before configuration Current Thread[Worker-125,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:25.989
+!MESSAGE after configuration Current Thread[Worker-125,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:25.992
+!MESSAGE after removing test folders Current Thread[Worker-125,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:33.434
+!MESSAGE Before configuration Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:33.437
+!MESSAGE after configuration Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:33.440
+!MESSAGE after removing test folders Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:35.321
+!MESSAGE Before configuration Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:35.324
+!MESSAGE after configuration Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:35.328
+!MESSAGE after removing test folders Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:36.159
+!MESSAGE Before configuration Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:36.162
+!MESSAGE after configuration Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:24:36.166
+!MESSAGE after removing test folders Current Thread[Worker-126,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:07.741
+!MESSAGE Before configuration Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:07.744
+!MESSAGE after configuration Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:07.747
+!MESSAGE after removing test folders Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:08.821
+!MESSAGE Before configuration Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:08.824
+!MESSAGE after configuration Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:08.827
+!MESSAGE after removing test folders Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:10.954
+!MESSAGE Before configuration Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:10.956
+!MESSAGE after configuration Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:10.959
+!MESSAGE after removing test folders Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:12.427
+!MESSAGE Before configuration Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:12.431
+!MESSAGE after configuration Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:26:12.435
+!MESSAGE after removing test folders Current Thread[Worker-119,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2017-05-08 12:27:20.241
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:39)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:909)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:341)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:524)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:76)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:112)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:127)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:132)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:229)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:390)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:188)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:66)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:88)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor198.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor198.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog$13.run(MarketplaceCatalog.java:279)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2017-05-08 12:27:20.244
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:29)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:909)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:341)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:524)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:76)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:112)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:127)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:132)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:229)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:390)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:188)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:66)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:88)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor198.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor198.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog$13.run(MarketplaceCatalog.java:279)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2017-05-08 12:28:21.117
+!MESSAGE Connection to http://www.ancitconsulting.com/tycho-utils/p2.index failed on www.ancitconsulting.com. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: www.ancitconsulting.com
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(Unknown Source)
+	at java.net.InetAddress.getAddressesFromNameService(Unknown Source)
+	at java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:259)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:159)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2017-05-08 12:28:29.901
+!MESSAGE Unknown Host: http://www.ancitconsulting.com/tycho-utils/content.xml
+!STACK 0
+java.net.UnknownHostException: www.ancitconsulting.com
+	at java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:259)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:159)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:304)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:263)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2017-05-08 12:28:30.076
+!MESSAGE Connection to http://www.ancitconsulting.com/tycho-utils/p2.index failed on www.ancitconsulting.com. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: www.ancitconsulting.com
+	at java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:259)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:159)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1006 2017-05-08 12:28:30.321
+!MESSAGE Unknown Host: http://www.ancitconsulting.com/tycho-utils/content.xml
+!STACK 0
+java.net.UnknownHostException: www.ancitconsulting.com
+	at java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:44)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:259)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:159)
+	at org.apache.http.impl.conn.ManagedClientConnectionImpl.open(ManagedClientConnectionImpl.java:304)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:263)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:18.990
+!MESSAGE Before configuration Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:18.993
+!MESSAGE after configuration Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:18.996
+!MESSAGE after removing test folders Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:20.004
+!MESSAGE Before configuration Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:20.009
+!MESSAGE after configuration Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:20.012
+!MESSAGE after removing test folders Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:22.655
+!MESSAGE Before configuration Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:22.659
+!MESSAGE after configuration Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:22.661
+!MESSAGE after removing test folders Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:23.596
+!MESSAGE Before configuration Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:23.599
+!MESSAGE after configuration Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 12:31:23.602
+!MESSAGE after removing test folders Current Thread[Worker-147,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Utility Module facet
+  - has Java 1.8 facet
+
+!SESSION 2017-05-08 13:24:45.597 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-05-08 13:25:08.844
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\youne'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 13:25:44.448
+!MESSAGE Before configuration Current Thread[Worker-10,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 13:25:44.455
+!MESSAGE after configuration Current Thread[Worker-10,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 13:25:44.461
+!MESSAGE after removing test folders Current Thread[Worker-10,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 13:25:45.862
+!MESSAGE Before configuration Current Thread[Worker-10,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 13:25:45.866
+!MESSAGE after configuration Current Thread[Worker-10,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-05-08 13:25:45.871
+!MESSAGE after removing test folders Current Thread[Worker-10,5,main]
+zipcloud-core is a J2EEModuleVirtualComponent
+Underlying resources for the root folder are :
+  -/zipcloud-core/src/main/java/
+  -/zipcloud-core/src/main/resources/
+deploy-name = zipcloud-core
+Contents of /zipcloud-core/.settings/org.eclipse.wst.common.component
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zipcloud-core">
+        <wb-resource deploy-path="/" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/" source-path="/src/main/resources"/>
+    </wb-module>
+</project-modules>
+zipcloud-core hasModuleCoreNature:true, isFlexible:true
+  - has Java 1.8 facet
+  - has Utility Module facet
+
